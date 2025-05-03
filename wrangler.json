@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "weathered-leaf-324b",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "99497088-1730-41cb-9519-51ce6200f6be",
+      "database_name": "late-recipe-bcbb-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
